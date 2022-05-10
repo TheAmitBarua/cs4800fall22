@@ -1,9 +1,0 @@
-import org.junit.api.Test;
- 
-class JUnitTest {
- 
-    @Test
-    void test() {
- 
-    }
-}
