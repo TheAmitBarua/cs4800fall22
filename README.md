@@ -1,2 +1,2 @@
-#cs 4800 fall 22
+#cs 4800  22
 ##### toooooowdad 
